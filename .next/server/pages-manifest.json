@@ -1,0 +1,11 @@
+{
+  "/getFetch": "pages/getFetch.js",
+  "/getFetch2": "pages/getFetch2.js",
+  "/getFetch3/UserId": "pages/getFetch3/UserId.js",
+  "/getFetch3/[id]": "pages/getFetch3/[id].js",
+  "/home": "pages/home.js",
+  "/": "pages/index.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}

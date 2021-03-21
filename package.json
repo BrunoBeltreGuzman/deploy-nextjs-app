@@ -1,0 +1,23 @@
+{
+       "name": "AppNextjs",
+       "version": "1.0.0",
+       "description": "",
+       "main": "index.js",
+       "scripts": {
+              "test": "echo \"Error: no test specified\" && exit 1",
+              "dev": "next",
+              "build": "next build",
+              "start": "next start",
+              "heroku-postbuild": "npm run build"
+       },
+       "keywords": [],
+       "author": "",
+       "license": "ISC",
+       "dependencies": {
+              "isomorphic-fetch": "^3.0.0",
+              "next": "^10.0.7",
+              "nprogress": "^0.2.0",
+              "react": "^17.0.1",
+              "react-dom": "^17.0.1"
+       }
+}
