@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function Nav() {
        return (
-              <div>
-                     <nav className="navbar navbar-expand-lg navbar-light bg-light">
+              <div className="container">
+                     <nav className="navbar navbar-expand-lg navbar-light">
                             <div className="container-fluid">
                                    <Link href="/">
                                           <a className="navbar-brand">
