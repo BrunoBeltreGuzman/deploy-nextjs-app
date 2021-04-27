@@ -20,6 +20,8 @@ export default function Partiars() {
                             rel="hoja de estilo"
                      ></link>
 
+                     <link rel="stylesheet" href="/mystyles.css" />
+
                      <title>Nextjs</title>
 
                      <meta
