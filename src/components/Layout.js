@@ -42,9 +42,9 @@ export default function Layout(props) {
        return (
               <div>
                      <Partiars></Partiars>
-                     <Nav></Nav>
                      <div className="container">
-                            <div className="container ">
+                            <div className="container">
+                                   <Nav></Nav>
                                    <div> {props.children}</div>
                             </div>
                      </div>

@@ -2,10 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/ruta/[id]": "pages/ruta/[id].js",
   "/": "pages/index.js",
   "/home": "pages/home.js",
-  "/getFetch": "pages/getFetch.js",
-  "/getFetch2": "pages/getFetch2.js",
-  "/getFetch3/[id]": "pages/getFetch3/[id].js",
-  "/404": "pages/404.js"
+  "/getFetch": "pages/getFetch.js"
 }

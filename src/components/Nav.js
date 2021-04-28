@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function Nav() {
        return (
-              <div className="container">
-                     <nav className="navbar navbar-expand-lg navbar-light">
+              <div>
+                     <nav className="navbar navbar-expand-lg navbar-light bg-light">
                             <div className="container-fluid">
                                    <Link href="/">
                                           <a className="navbar-brand">
@@ -53,18 +53,12 @@ export default function Nav() {
                                                                       Fetch
                                                                </a>
                                                         </Link>
-                                                 </li>
+                                                 </li>{" "}
                                                  <li className="nav-item">
-                                                        <Link href="/getFetch2">
+                                                        <Link href="/ruta/1">
                                                                <a className="nav-link">
-                                                                      Fetch2
-                                                               </a>
-                                                        </Link>
-                                                 </li>
-                                                 <li className="nav-item">
-                                                        <Link href="/getFetch3/1">
-                                                               <a className="nav-link">
-                                                                      Fetch3
+                                                                      Ruta
+                                                                      Dinamica
                                                                </a>
                                                         </Link>
                                                  </li>

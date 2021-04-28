@@ -19,11 +19,6 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/index.js"
     ],
-    "/404": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/404.js"
-    ],
     "/_app": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
@@ -39,20 +34,15 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/getFetch.js"
     ],
-    "/getFetch2": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/getFetch2.js"
-    ],
-    "/getFetch3/[id]": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/getFetch3/[id].js"
-    ],
     "/home": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/home.js"
+    ],
+    "/ruta/[id]": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/ruta/[id].js"
     ]
   },
   "ampFirstPages": []
