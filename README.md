@@ -4,4 +4,4 @@ Testing deploy in vercel application built in nextjs
 
 **preview**
 
-https://deploy-nextjs-app.vercel.app/
+https://nextjsapp-beryl.vercel.app/
